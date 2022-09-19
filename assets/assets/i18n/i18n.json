@@ -1,0 +1,599 @@
+{
+  "bao_cao": {
+    "vi": "Báo cáo"
+  },
+  "chon_thang_rut": {
+    "vi": "Chọn tháng rút"
+  },
+  "chi_tiet_don_hang_phat_sinh": {
+    "vi": "Chi tiết đơn hàng phát sinh"
+  },
+  "chi_tiet_don_hang_rut_kho": {
+    "vi": "Chi tiết đơn hàng rút kho"
+  },
+  "cap_nhat_moi": {
+    "vi": "Có bản cập nhật mới"
+  },
+  "chon_don_hang": {
+    "vi": "Chọn loại đơn hàng"
+  },
+  "dien_thoai": {
+    "vi": "Điện thoại"
+  },
+  "dai_dien": {
+    "vi": "Đại diện"
+  },
+  "noi_dung_cap_nhat": {
+    "vi": "Đã có phiên bản ứng dụng mới hơn, vui lòng cập nhật ngay bây giờ."
+  },
+  "don_hang": {
+    "vi": "Đơn hàng"
+  },
+  "don_hang_chua_co_san_pham": {
+    "vi": "Đơn hàng chưa có sản phẩm"
+  },
+  "danh_muc_phan_hoi": {
+    "vi": "Danh mục phản hồi"
+  },
+  "vuot_so_luong": {
+    "vi": "Sản phẩm bạn chọn đã vượt quá số lượng (tối đa 999 sản phẩm), vui lòng thay đổi số lượng hoặc chọn sản phẩm khác!"
+  },
+  "lien_a_hot_line": {
+    "vi": "Liên Á Hotline "
+  },
+  "thong_tin_dai_ly": {
+    "vi": "Thông tin đại lý"
+  },
+  "lien_a": {
+    "vi": "Liên Á"
+  },
+  "phien_ban": {
+    "vi": "Phiên bản"
+  },
+  "mien_phi": {
+    "vi": " (Miễn phí)"
+  },
+  "dien_thoai_chua_dang_ky": {
+    "vi": "Số điện thoại này chưa đăng ký."
+  },
+  "dang_xuat": {
+    "vi": "Đăng xuất"
+  },
+  "xem_khuyen_mai": {
+    "vi": "Xem\nkhuyến\nmãi"
+  },
+  "gio_hang": {
+    "vi": "Giỏ hàng"
+  },
+  "ban_quyen": {
+    "vi": "Copyright by "
+  },
+  "lay_ma_xac_nhan": {
+    "vi": "Lấy mã xác nhận"
+  },
+  "nhap_so_dien_thoai": {
+    "vi": "Nhập số điện thoại"
+  },
+  "so_dien_thoai_dang_ky": {
+    "vi": "Nhập số điện thoại đã đăng ký!"
+  },
+  "khong_tim_thay_du_lieu": {
+    "vi": "Không tìm thấy dữ liệu, vui lòng thoát ứng dụng và thử đăng nhập lại!"
+  },
+  "khong_co_hang_rut_kho": {
+    "vi": "Không có hàng rút kho, bạn có muốn chuyển qua đơn hàng phát sinh không ?"
+  },
+  "co_loi_xay_ra_thu_lai": {
+    "vi": "Có lỗi xảy ra, vui lòng thử lại sau!"
+  },
+  "co_loi_xay_ra": {
+    "vi": "Có lỗi xảy ra!"
+  },
+  "chua_co_don_hang": {
+    "vi": "Chưa có đơn hàng!"
+  },
+  "khong_doc_duoc_du_lieu_thu_lai": {
+    "vi": "Không đọc được dữ liệu, vui lòng quay lại sau."
+  },
+  "khong_doc_duoc_du_lieu": {
+    "vi": "Không đọc được dữ liệu."
+  },
+  "tao_don_hang": {
+    "vi": "Tạo đơn hàng"
+  },
+  "thong_bao": {
+    "vi": "Thông báo"
+  },
+  "phan_hoi": {
+    "vi": "Phản hồi"
+  },
+  "quy_dinh_su_dung": {
+    "vi": "Quy định sử dụng"
+  },
+  "chinh_sach_bao_mat": {
+    "vi": "Chính sách bảo mật"
+  },
+  "thang_rut_kho": {
+    "vi": "Xin vui lòng chọn tháng rút kho!"
+  },
+  "tong_cong": {
+    "vi": "Tổng cộng"
+  },
+  "them_san_pham": {
+    "vi": "Thêm sản phẩm"
+  },
+  "xac_nhan": {
+    "vi": "Xác nhận"
+  },
+  "hang_phat_sinh": {
+    "vi": "Hàng phát sinh"
+  },
+  "hang_rut_kho": {
+    "vi": "Hàng rút kho"
+  },
+  "xem_hang_phat_sinh": {
+    "vi": "Bạn không có hàng rút kho, vui lòng xem đơn hàng phát sinh!"
+  },
+  "xem_doanh_so": {
+    "vi": "Xem doanh số"
+  },
+  "chon_hang_phat_sinh": {
+    "vi": "Bạn không có hàng rút kho\nvui lòng chọn hàng phát sinh!"
+  },
+  "thang_rut": {
+    "vi": "Tháng rút"
+  },
+  "thanh_cong": {
+    "vi": "Thành công"
+  },
+  "theo_thang": {
+    "vi": "Theo tháng"
+  },
+  "theo_quy": {
+    "vi": "Theo quý"
+  },
+  "rut_hang_goi_kho": {
+    "vi": "Rút hàng gởi kho"
+  },
+  "da_het_phien_dang_nhap": {
+    "vi": "Phiên đăng nhập của bạn đã hết\nvui lòng đăng nhập lại!"
+  },
+  "doanh_so": {
+    "vi": "Doanh số"
+  },
+  "tieu_de_bao_tri": {
+    "vi": "Hệ thống đang bảo trì."
+  },
+  "noi_dung_bao_tri": {
+    "vi": "Thời gian bảo trì từ 17h ngày 28/11/2020 đến 8h ngày 29/11/2020 , vui lòng tắt và khởi động lại toàn ứng dụng sau khi bảo trì hoàn tất.\n\nXin lỗi vì sự bất tiện này!"
+  },
+  "gia_niem_yet": {
+    "vi": "Giá niêm yết"
+  },
+  "gui_phan_hoi": {
+    "vi": "Gửi phản hồi"
+  },
+  "tao_moi": {
+    "vi": "Tạo mới"
+  },
+  "chu_y": {
+    "vi": "Chú ý"
+  },
+  "dien_thong_tin": {
+    "vi": "Vui lòng điền đầy đủ thông tin và chọn danh mục phản hồi theo mẫu bên dưới."
+  },
+  "dong_y": {
+    "vi": "Đồng ý"
+  },
+  "cam_on_su_dong_gop": {
+    "vi": "Cám ơn sự góp ý từ Bạn. Liên Á sẽ phản hồi trong vòng 24h. Chân thành cảm ơn."
+  },
+  "phan_hoi_da_gui": {
+    "vi": "Phản hồi đã được gửi"
+  },
+  "phan_hoi_da_dong": {
+    "vi": "Phản hồi đã đóng, nếu có thắc mắc cần giải đáp, hãy tạo phản hồi mới."
+  },
+  "nhap_noi_dung": {
+    "vi": "Nhập nội dung"
+  },
+  "noi_dung_ghi_chu": {
+    "vi": "Nhập nội dung ghi chú!"
+  },
+  "huy": {
+    "vi": "Huỷ"
+  },
+  "cap_nhat": {
+    "vi": "Cập nhật"
+  },
+  "ghi_chu": {
+    "vi": "Ghi chú"
+  },
+  "bo_qua": {
+    "vi": "Bỏ qua"
+  },
+  "khong_tai_duoc_du_lieu": {
+    "vi": "Không tải được dữ liệu!"
+  },
+  "tat_ca_trang_thai": {
+    "vi": "Chọn tất cả các trạng thái đơn hàng"
+  },
+  "tat_ca_don_hang": {
+    "vi": "Chọn tất cả đơn hàng"
+  },
+  "loc_theo_trang_thai": {
+    "vi": "Đã lọc theo trạng thái"
+  },
+  "chon_trang_thai": {
+    "vi": "Chưa chọn trạng thái"
+  },
+  "trang_thai": {
+    "vi": "Trạng thái"
+  },
+  "ngay_bat_dau_ket_thuc": {
+    "vi": "Chọn ngày bắt đầu - Kết thúc"
+  },
+  "chon_thang": {
+    "vi": "Chọn tháng"
+  },
+  "chon_quy": {
+    "vi": "Chọn quý"
+  },
+  "chon_nam": {
+    "vi": "Chọn năm"
+  },
+  "chua_chon_ngay": {
+    "vi": "Chưa chọn ngày"
+  },
+  "chua_chon_thang": {
+    "vi": "Chưa chọn tháng"
+  },
+  "chua_chon_quy": {
+    "vi": "Chưa chọn quý"
+  },
+  "chua_chon_nam": {
+    "vi": "Chưa chọn năm"
+  },
+  "chon_danh_muc": {
+    "vi": "Chọn danh mục"
+  },
+  "da_chon_thang": {
+    "vi": "Đã chọn tháng"
+  },
+  "chup_anh": {
+    "vi": "Chụp ảnh"
+  },
+  "da_chon_quy": {
+    "vi": "Đã chọn quý"
+  },
+  "da_chon_nam": {
+    "vi": "Đã chọn năm"
+  },
+  "da_loc_theo_ngay": {
+    "vi": "Đã lọc theo ngày"
+  },
+  "khong_co_don_hang_nay": {
+    "vi": "Không có đơn hàng ở trạng thái này trong ngày này."
+  },
+  "con_lai": {
+    "vi": "Còn lại"
+  },
+  "tien_do": {
+    "vi": "Tiến độ"
+  },
+  "thuc_hien": {
+    "vi": "Thực hiện"
+  },
+  "chi_tieu_thang": {
+    "vi": "Chỉ tiêu tháng"
+  },
+  "chi_tieu_quy": {
+    "vi": "Chỉ tiêu quý"
+  },
+  "thang": {
+    "vi": "Tháng"
+  },
+  "quy": {
+    "vi": "Quý"
+  },
+  "dia_chi_giao": {
+    "vi": "Địa chỉ giao:"
+  },
+  "chua_chon_dia_chi_giao": {
+    "vi": "Bạn chưa chọn địa chỉ giao hàng!"
+  },
+  "ghi_chu_giao_hang": {
+    "vi": "Ghi chú giao hàng:"
+  },
+  "so_luong": {
+    "vi": "Số lượng"
+  },
+  "don_vi_tinh": {
+    "vi": "Đơn vị tính"
+  },
+  "don_gia": {
+    "vi": "Đơn giá"
+  },
+  "tong_tien": {
+    "vi": "Tổng tiền"
+  },
+  "chua_co_thong_tin": {
+    "vi": "Chưa có thông tin mới!"
+  },
+  "chua_co_tin_nhan": {
+    "vi": "Chưa có tin nhắn mới!"
+  },
+  "ban_se_thoat_khoi_ung_dung": {
+    "vi": "Bạn sẽ thoát khỏi ứng dụng sau"
+  },
+  "giay": {
+    "vi": "giây"
+  },
+  "dang_nhap_tren_thiet_bi_khac": {
+    "vi": "vì tài khoản này đã đăng nhập trên một thiết bị khác!"
+  },
+  "xoa_tat_ca_san_pham": {
+    "vi": "Bạn muốn xóa tất cả sản phẩm khỏi giỏ hàng"
+  },
+  "gui_lai_ma_xac_nhan": {
+    "vi": "Gửi lại mã xác nhận"
+  },
+  "otp_het_hieu_luc": {
+    "vi": "OTP hết hiệu lực."
+  },
+  "otp_het_hieu_luc_sau": {
+    "vi": "OTP hết hiệu lực sau"
+  },
+  "nhap_sai_otp": {
+    "vi": "Nhập sai OTP."
+  },
+  "khong_tao_duoc_otp": {
+    "vi": "Không tạo được OTP, vui lòng thử lại sau."
+  },
+  "he_thong_bi_loi": {
+    "vi": "Hệ thống bị lỗi, vui lòng thử lại sau."
+  },
+  "tai_khoan_chua_dang_ky": {
+    "vi": "Tài khoản chưa đăng ký."
+  },
+  "so_dien_thoai_khong_co": {
+    "vi": "Số điện thoại không có."
+  },
+  "loi_chua_xac_dinh": {
+    "vi": "Lỗi chưa xác định."
+  },
+  "nhap_ma_xac_nhan": {
+    "vi": "Nhập mã xác nhận"
+  },
+  "ma_xac_nhan_da_duoc_gui": {
+    "vi": "Mã xác nhận\nđã được gửi tới số ĐT"
+  },
+  "xac_nhan_don_hang": {
+    "vi": "Xác nhận đơn hàng"
+  },
+  "da_tao_thanh_cong": {
+    "vi": "đã tạo thành công."
+  },
+  "phan_hoi_gui_thanh_cong": {
+    "vi": "Tin nhắn gửi thành công, chúng tôi sẽ trả lời bạn trong thời gian sớm nhất!"
+  },
+  "lien_a_lien_he_lai_ban_sau": {
+    "vi": "Liên Á sẽ liên hệ lại bạn sau."
+  },
+  "xin_cam_on": {
+    "vi": "Xin cảm ơn!"
+  },
+  "quay_lai": {
+    "vi": "Quay lại"
+  },
+  "ban_dang_dat_don_hang": {
+    "vi": "Bạn đang đặt đơn hàng"
+  },
+  "lien_a_se_lien_he_voi_ban": {
+    "vi": "Liên Á sẽ liên hệ lại với bạn."
+  },
+  "voi_tong_so_tien": {
+    "vi": "với tổng số tiền là"
+  },
+  "dat_hang": {
+    "vi": "Đặt hàng"
+  },
+  "de_sau": {
+    "vi": "Để sau"
+  },
+  "chua_tao_duoc_don_hang": {
+    "vi": "Đã có lỗi không xác định trong việc đặt hàng. Vui lòng liên hệ hotline: 18001242 để được hỗ trợ!"
+  },
+  "thong_tin_don_hang": {
+    "vi": "Thông tin đơn hàng"
+  },
+  "hoan_tat_don_hang": {
+    "vi": "Hoàn tất đơn hàng"
+  },
+  "chon_dia_chi_mac_dinh": {
+    "vi": "Vui lòng chọn một địa chỉ mặc định!"
+  },
+  "tinh_thanh": {
+    "vi": "Tỉnh/ Thành"
+  },
+  "thu_vien_anh": {
+    "vi": "Thư viện ảnh"
+  },
+  "chon_tinh_thanh": {
+    "vi": "Chọn Tỉnh/ Thành"
+  },
+  "quan_huyen": {
+    "vi": "Quận/ Huyện"
+  },
+  "chon_quan_huyen": {
+    "vi": "Chọn Quận/ Huyện"
+  },
+  "vui_long_chon_quan_huyen": {
+    "vi": "Vui lòng chọn Quận/ Huyện"
+  },
+  "vui_long_chon_tinh_thanh": {
+    "vi": "Vui lòng chọn Tỉnh/ Thành"
+  },
+  "dang_tai": {
+    "vi": "Đang tải..."
+  },
+  "chua_co_phan_hoi": {
+    "vi": "Chưa có thông tin phản hồi, vui lòng quay lại sau."
+  },
+  "khach_hang": {
+    "vi": "KH"
+  },
+  "la": {
+    "vi": "L'A"
+  },
+  "tai_hinh_that_bai": {
+    "vi": "Tải hình ảnh lên server thất bại! Vui lòng kiểm tra kết nối."
+  },
+  "sai_dinh_dang": {
+    "vi": "Sai định dạng hình ảnh! Chỉ gửi các ảnh có định dạng jpeg, jpg, png, bmp, gif."
+  },
+  "hinh_qua_lon": {
+    "vi": "Hình ảnh quá lớn! Vui lòng gửi hình < 10MB"
+  },
+  "dang_phat_trien": {
+    "vi": "Chức năng đang phát triển\nvui lòng quay lại sau!"
+  },
+  "thong_tin": {
+    "vi": "Thông tin"
+  },
+  "lich_su": {
+    "vi": "Lịch sử"
+  },
+  "tin_nhan": {
+    "vi": "Tin nhắn"
+  },
+  "ar_report": {
+    "vi": "Báo cáo công nợ"
+  },
+  "loc_theo_ngay": {
+    "vi": "Lọc theo ngày"
+  },
+  "date_range": {
+    "vi": "Lịch sử đơn hàng trong khoảng:"
+  },
+  "fromdate": {
+    "vi": "từ ngày"
+  },
+  "pick_start_date": {
+    "vi": "chọn ngày bắt đầu"
+  },
+  "todate": {
+    "vi": "đến ngày"
+  },
+  "pick_end_date": {
+    "vi": "chọn ngày kết thúc"
+  },
+  "confirm": {
+    "vi": "Xác nhận"
+  },
+  "cancel": {
+    "vi": "Hủy"
+  },
+  "save": {
+    "vi": "Lưu"
+  },
+  "error_format": {
+    "vi": "Nhập sai ngày!"
+  },
+  "error_invalid": {
+    "vi": "Nhập sai!"
+  },
+  "error_invalid_range": {
+    "vi": "Sai khoảng thời gian!"
+  },
+  "khong_co_san_pham": {
+    "vi": "Không có sản phẩm!"
+  },
+  "lich_su_don_hang": {
+    "vi": "Lịch sử đơn hàng"
+  },
+  "ket_noi_bi_loi": {
+    "vi": "Vui lòng kiểm tra wifi/ 4G hoặc liên hệ qua số hotline để được hỗ trợ."
+  },
+  "ket_noi_tu_choi": {
+    "vi": "Vui lòng thoát hoàn toàn ứng dụng hoặc kiểm tra phiên bản mới và thử cài đặt, truy cập trở lại!"
+  },
+  "chi_tiet_cong_no": {
+    "vi": "Chi tiết công nợ"
+  },
+  "cong_no_phat_sinh": {
+    "vi": "Công nợ phát sinh"
+  },
+  "thanh_tien_dau_ky": {
+    "vi": "Thành tiền đầu kỳ"
+  },
+  "phat_sinh": {
+    "vi": "Phát sinh"
+  },
+  "thanh_tien_cuoi_ky": {
+    "vi": "Thành tiền cuối kỳ"
+  },
+  "tong": {
+    "vi": "Tổng"
+  },
+  "thanh_tien": {
+    "vi": "Thành tiền\n(Nợ)"
+  },
+  "thanh_toan": {
+    "vi": "Thanh toán\n(Có)"
+  },
+  "hang_goi_kho": {
+    "vi": "Hàng gởi kho"
+  },
+  "ngay": {
+    "vi": "Ngày"
+  },
+  "trang_thai_so": {
+    "vi": "Hàng gửi kho"
+  },
+  "dien_giai": {
+    "vi": "Diễn giải"
+  },
+  "luy_ke": {
+    "vi": "Luỹ kế"
+  },
+  "chon_ngay_dccn": {
+    "vi": "Vui lòng chọn ngày bắt đầu\nvà kết thúc bạn muốn xem bảng đối chiếu công nợ!"
+  },
+  "cuoi_ky_ben_no": {
+    "vi": "*Thành tiền cuối kỳ bên nợ -> Quý đại lý phái trả cho Liên Á"
+  },
+  "cuoi_ky_ben_co": {
+    "vi": "*Thành tiền cuối kỳ bên có -> Quý đại lý đang gởi kho Liên Á"
+  },
+  "thuong": {
+    "vi": "Tiền thưởng"
+  },
+  "chup_du_hinh": {
+    "vi": "Vui lòng chụp đủ số lượng hình trưng bày"
+  },
+  "truy_xuat_camera": {
+    "vi": "Lỗi, không truy xuất được camera"
+  },
+  "loi_hinh_anh": {
+    "vi": "Lỗi, không tải được hình ảnh"
+  },
+  "truy_xuat_hinh_anh": {
+    "vi": "Truy xuất hình ảnh bị lỗi."
+  },
+  "upload_hinh_anh": {
+    "vi": "Upload hình ảnh bị lỗi."
+  },
+  "quyen_truy_cap": {
+    "vi": "Ứng dụng cần quyền truy cập camera, thư viện hình ảnh, vui lòng vào cài đặt và cho phép."
+  },
+  "vi_tri": {
+    "vi": "Vào cài đặt, cho phép sử dụng vị trí hiện tại để gởi phản hồi."
+  },
+  "dich_vu": {
+    "vi": "Vào cài đặt, cho phép truy cập dịch vụ để gởi phản hồi."
+  },
+  "luon_cho_phep": {
+    "vi": "Vào cài đặt, hãy luôn cho phép truy cập dịch vụ để gởi phản hồi."
+  }
+}

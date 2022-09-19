@@ -1,0 +1,16 @@
+{
+  "rut_kho": true,
+  "phan_hoi": true,
+  "thong_bao": true,
+  "bao_cao": true,
+  "tao_don_hang": true,
+  "gio_hang": true,
+  "sap_xep": false,
+  "bao_tri": false,
+  "gia_niem_yet": false,
+  "attach_image": false,
+  "order_tracking": false,
+  "sms_on": true,
+  "note_length": 225,
+  "phone_number": 18009004
+}

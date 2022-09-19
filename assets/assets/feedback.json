@@ -1,0 +1,26 @@
+{
+  "product":{
+    "code": "product",
+    "name": "Sản phẩm"
+  },
+  "delivery":{
+    "code": "delivery",
+    "name": "Giao hàng"
+  },
+  "service":{
+    "code": "service",
+    "name": "Dịch vụ"
+  },
+  "discount":{
+    "code": "discount",
+    "name": "Khuyến mãi"
+  },
+  "payment":{
+    "code": "payment",
+    "name": "Thanh toán"
+  },
+  "banner":{
+    "code": "banner",
+    "name": "Trưng bày"
+  }
+}
